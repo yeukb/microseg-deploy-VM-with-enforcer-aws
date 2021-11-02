@@ -32,3 +32,6 @@ variable "linux_ip" {
     default = "10.10.10.10"
 }
 
+variable "ubuntu_version" {
+  default = "20.04"
+}
